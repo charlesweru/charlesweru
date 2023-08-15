@@ -7,4 +7,5 @@
 <!---
 charlesweru/charlesweru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Hi,I'm @charlesweru and i'am interested with this program.am qualified clinician,with added skills in field of computer program.
+--->Hi,I'm @charlesweru and i'am interested with this program.am qualified clinician i.e medical practitioner,with added skills in field of computer program.
+For more details click on the link below,https://www.facebook.com/drcharlesweru
